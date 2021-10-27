@@ -1,2 +1,2 @@
-Hello Friends, we are using github
-change in local repository
+Hello Folks, we are using github
+hurrah
